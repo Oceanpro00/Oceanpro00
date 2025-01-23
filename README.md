@@ -4,20 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Sciences Student | Career Changer
 --------------------------------------
 
-Hey, I’m Sean Schallberger, a former fine art photographer and real estate content expert, now diving headfirst into data analytics. My academic background includes a BFA specialization in integrated digital media, where I explored interactive art and innovative technologies. For my thesis, I developed a generative AI-based experimental magazine, blending creativity with machine learning techniques.
+Hey, I’m Sean Schallberger, a former fine art photographer and real estate content expert, now transitioning into data sciences. I’m currently enrolled in the Data Analytics Bootcamp at the University of Toronto and EdX, where I’m gaining hands-on experience in Python programming, data visualization, statistical analysis, and database management. Check out my projects to see my progress and the skills I’m building!
 
-I am currently enrolled in the Data Analytics Bootcamp at the University of Toronto and EdX, where I’m learning an extensive range of data and technical skills, including:  
-- **Python programming** for data analysis, automation, and more  
-- **Data visualization tools** like Tableau, Matplotlib, Plotly, and Leaflet  
-- **Statistical analysis** including regression modeling and hypothesis testing  
-- **Database management** with SQL, NoSQL, Postgres, and MongoDB  
-- **Web technologies** (HTML, CSS, JavaScript) for interactive data visualizations  
-- **ETL processes** for data cleaning and preparation  
-- **Advanced topics** like machine learning foundations and Hadoop  
-
-The bootcamp’s rigorous curriculum provides hands-on experience working with real-world datasets and complex projects. I’ve already tackled challenges in Python-based scripting, API interaction, data cleaning, and visualization—and there’s much more to come.
-
-Feel free to explore my repositories to see my project work, which demonstrates these skills in action. Whether you're a fellow learner, an industry professional, or simply curious about my journey, let’s connect!
 
 
 * 🌍  I'm based in Canada
