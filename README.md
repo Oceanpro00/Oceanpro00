@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Sciences Student | Career Changer
 --------------------------------------
 
-Hey, I’m Sean Schallberger, a former fine art photographer and real estate content expert, now transitioning into data sciences. I’m currently enrolled in the Data Analytics Bootcamp at the University of Toronto and EdX, where I’m gaining hands-on experience in Python programming, data visualization, statistical analysis, and database management. Check out my projects to see my progress and the skills I’m building!
+Hey, I’m Sean Schallberger, a former fine art photographer and real estate content expert, now transitioning into data sciences. I’m currently enrolled in the Data Analytics Bootcamp at the University of Toronto and EdX, where I’m developing technical skills in Python programming, data visualization with tools like Tableau and Matplotlib, statistical analysis, and database management with SQL and MongoDB. I’m also working on real-world projects to apply these skills and build a strong foundation in data analytics. Check out my repositories to follow along with my journey!
 
 
 
