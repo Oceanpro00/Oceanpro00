@@ -10,7 +10,7 @@ Hey, I’m Sean Schallberger, a former fine art photographer and real estate con
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [sean.schallberger@gmail.com](mailto:sean.schallberger@gmail.com)
-* 🧠  I'm learning Data Analytics Bootcamp with Univ
+* 🧠  I'm learning Data Analytics Bootcamp with University of Toronto x EDx
 * 🤝  I'm open to collaborating on Interesting Projects and Learning Opportunities
 
 ### Skills
